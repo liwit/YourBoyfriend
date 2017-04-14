@@ -1,7 +1,7 @@
 第一个开源项目，大家都来捧个人场啊！不会写代码也没关系！只要你对男朋友有渴望，都可以加入！我们欢迎你！
 
 
-还有隔壁的 [铝盆友开发文档](https://github.com/YixuanFranco/yourGirlFriend/blob/master/README.md).
+还有隔壁的 [铝盆友开发文档](https://github.com/liwit/yourGirlFriend/blob/master/README.md).
 
 
 ###开发文档の背景
@@ -66,13 +66,13 @@ Zoom.ོQuiet 15:17
   * 流水的男人铁打的『蓝盆友』.
 
 3. 资金来源
-      * 支付宝账户: bailishanshan@foxmail.com
+      * 支付宝账户: liwit@126.com
       * 不要捐太多钱, 我们暂时用不到.
       * 但会在 GitHub 做记录.
 
 4. 开发人员:
       * 自愿加入.
-      * [项目地址](https://github.com/YixuanFranco/yourboyfriend)
+      * [项目地址](https://github.com/liwit/yourboyfriend)
       * 盈利模式: 按功能项收费.
 
 5. 开发目标.
@@ -83,7 +83,7 @@ Zoom.ོQuiet 15:17
 ###如何加入这个项目?
 
 你可以...
-  * 补充你想要的需求. [补充地址](https://github.com/YixuanFranco/yourboyfriend/issues/2)
+  * 补充你想要的需求. [补充地址](https://github.com/liwit/yourboyfriend/issues/2)
   * 补充你对男朋友的幻想.
   * 写下你会的编程语言.
   * 认领你想要实现的模块.
